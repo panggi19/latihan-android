@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">bali</string>
+    <string name="title">Bali</string>
+    <string name="camera">Camera</string>
+    <string name="settings">Settings</string>
+    <string name="desc">Bali is the only Hindu-majority province in Indonesia,
+        with 86.9% of the population adhering to Balinese Hinduism.
+        It is also renowned for its highly developed arts, including traditional and modern dance,
+        sculpture, painting, leather, metalworking, and music.</string>
+    <string name="discard">Discard</string>
+    <string name="upload">Upload</string>
+    <string name="tipecamera">Tipe Camera</string>
+    <string name="settingcamera">Setting Camera</string>
+</resources>
